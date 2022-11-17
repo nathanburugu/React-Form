@@ -1,0 +1,2 @@
+CREATE DATABASE savanah
+CREATE TABLE users
